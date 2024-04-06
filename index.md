@@ -35,7 +35,7 @@ The steps for this lab consisted of:
   - Then I cloned the repository onto my local machine using `git clone` in the command line and used ` cd `  into the repo folder
   - From there I created a new git branch called "add-read-me" and navigated to that branch by using ` git branch ` and ` git checkout `
     
-  [screenshot of the command line code mentioned above, how it was used, and what the result was](https://github.com/jberdeski/CSE110-Project/blob/main/CSE110%20Lab1%20.png)
+  [screenshot of the command line code mentioned above, how it was used, and what the result was](CSE110-Project/Screenshots/CSE110-Lab1.png)
        
   - After that I used ` vim `
     > ` vim ` opens a specified file and allows you to edit it. So in this instance I added "Julia Berdeski's User Page" in the file README.md
