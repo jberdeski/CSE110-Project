@@ -35,7 +35,7 @@ The steps for this lab consisted of:
   - Then I cloned the repository onto my local machine using `git clone` in the command line and used ` cd `  into the repo folder
   - From there I created a new git branch called "add-read-me" and navigated to that branch by using ` git branch ` and ` git checkout `
     
-  [screenshot of the command line code mentioned above, how it was used, and what the result was](Screenshots/CSE110Lab1.png)
+  [screenshot of the command line code mentioned above, how it was used, and what the result was](Screenshots/CSE110-Lab1.png)
        
   - After that I used ` vim `
     > ` vim ` opens a specified file and allows you to edit it. So in this instance I added "Julia Berdeski's User Page" in the file README.md
@@ -43,7 +43,7 @@ The steps for this lab consisted of:
   - Once I had saved and quit from editing README.md I used ` git add ` to add the updated file to git
   - Finally after all that I finished by using ` git commit ` and ` git push ` to commit to the remote branch
     
-  [screenshot of the command line with vim, add, commit, and push](https://github.com/jberdeski/CSE110-Project/blob/main/CSE110%20Lab1%20(2).png)
+  [screenshot of the command line with vim, add, commit, and push](Screenshots/CSE110-Lab1(2).png)
 
 3) VSCode UI
    - Now I was tasked to go through a similar process in VS Code
@@ -51,6 +51,6 @@ The steps for this lab consisted of:
    - I also created a file titled PRIVATE.txt. In this file, I put my name and PID.
    - After that I created a .gitignore file in the root of my repository and added the path to this PRIVATE.txt file
      
-[screenshot of the VSCode with aformentioned steps](https://github.com/jberdeski/CSE110-Project/blob/main/CSE110%20Lab1%20(3).png)
+[screenshot of the VSCode with aformentioned steps](Screenshots/CSE110-Lab1(3).png)
      
 This site was built using [GitHub Pages](https://pages.github.com/).
