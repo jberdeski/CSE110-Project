@@ -1,4 +1,3 @@
 # CSE110-Project
-Julia Berdeski's User Page
+Here is the link to my published page [GitHub Page](https://jberdeski.github.io/CSE110-Project/)
 
-I think java is a cool programing language, but since C++ was the one I used more recently I feel more confident about it comparatively.
